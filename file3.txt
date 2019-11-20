@@ -1,0 +1,4 @@
+line1 inside file3
+line2 in file3
+line3 in file3
+line4 in file3
