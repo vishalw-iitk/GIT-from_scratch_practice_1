@@ -1,3 +1,4 @@
 line1 in file2
 line2 in file2
-line3 in file2
+line3 inside file2
+line4 added
