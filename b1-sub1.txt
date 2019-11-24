@@ -1,0 +1,1 @@
+changes in local2 in b1-sub2 branch. This file was already present in b1-sub1 with different content.
